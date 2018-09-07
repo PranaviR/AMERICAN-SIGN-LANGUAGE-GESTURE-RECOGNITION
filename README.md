@@ -1,12 +1,11 @@
 
 # ASL-Gesture-Recognition
 
-Link to the website : https://abhinuvpitale.github.io/ASL-Gesture-Recognition/
 Link to the demo : https://youtu.be/nuG3TJhEyko
 
 *Setup*
 
-execute the predictWord file and then execute the 'Final Model' subsection from the runPython.m file.
+Execute the predictWord file and then execute the 'Final Model' subsection from the runPython.m file.
 
 *Following is a reference for the navigating through the code we've developed.*
 
@@ -49,3 +48,5 @@ osdAugSVM - 4 letters with augmentation
 osdNewLetterSVM - 9 letters, without extended feature set
 
 boundaryOSD_SVM - 9 letters, with augmentation and extended features set.
+
+Link to the website : https://abhinuvpitale.github.io/ASL-Gesture-Recognition/
